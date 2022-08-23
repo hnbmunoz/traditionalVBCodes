@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SQLDBaseCodes", "SQLDBaseCodes\SQLDBaseCodes.vbproj", "{ECFC1932-E4FB-40FE-891B-52B5BED77570}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECFC1932-E4FB-40FE-891B-52B5BED77570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECFC1932-E4FB-40FE-891B-52B5BED77570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECFC1932-E4FB-40FE-891B-52B5BED77570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECFC1932-E4FB-40FE-891B-52B5BED77570}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9B46FEA-4BF5-40F2-A7CB-E11E0E3451CE}
+	EndGlobalSection
+EndGlobal

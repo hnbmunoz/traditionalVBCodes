@@ -1,0 +1,11 @@
+D:\Projects\VBNet\SQLDBaseCodes\SQLDBaseCodes\bin\Debug\SQLDBaseCodes.exe
+D:\Projects\VBNet\SQLDBaseCodes\SQLDBaseCodes\bin\Debug\SQLDBaseCodes.pdb
+D:\Projects\VBNet\SQLDBaseCodes\SQLDBaseCodes\bin\Debug\SQLDBaseCodes.xml
+D:\Projects\VBNet\SQLDBaseCodes\SQLDBaseCodes\obj\Debug\SQLDBaseCodes.vbproj.AssemblyReference.cache
+D:\Projects\VBNet\SQLDBaseCodes\SQLDBaseCodes\obj\Debug\SQLDBaseCodes.Form1.resources
+D:\Projects\VBNet\SQLDBaseCodes\SQLDBaseCodes\obj\Debug\SQLDBaseCodes.Resources.resources
+D:\Projects\VBNet\SQLDBaseCodes\SQLDBaseCodes\obj\Debug\SQLDBaseCodes.vbproj.GenerateResource.cache
+D:\Projects\VBNet\SQLDBaseCodes\SQLDBaseCodes\obj\Debug\SQLDBaseCodes.vbproj.CoreCompileInputs.cache
+D:\Projects\VBNet\SQLDBaseCodes\SQLDBaseCodes\obj\Debug\SQLDBaseCodes.exe
+D:\Projects\VBNet\SQLDBaseCodes\SQLDBaseCodes\obj\Debug\SQLDBaseCodes.xml
+D:\Projects\VBNet\SQLDBaseCodes\SQLDBaseCodes\obj\Debug\SQLDBaseCodes.pdb
